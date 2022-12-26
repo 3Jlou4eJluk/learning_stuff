@@ -1,0 +1,3 @@
+/run/media/mishanya/MyBestHDD/progs/prakcodesem5/blas_and_lapack/cpp/CMakeFiles/blas.dir
+/run/media/mishanya/MyBestHDD/progs/prakcodesem5/blas_and_lapack/cpp/CMakeFiles/edit_cache.dir
+/run/media/mishanya/MyBestHDD/progs/prakcodesem5/blas_and_lapack/cpp/CMakeFiles/rebuild_cache.dir

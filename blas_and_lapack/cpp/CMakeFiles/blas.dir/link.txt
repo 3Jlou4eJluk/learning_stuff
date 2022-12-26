@@ -1,0 +1,1 @@
+/usr/bin/c++  -flto -Ofast -march=native -lcblas -rdynamic CMakeFiles/blas.dir/main.o -o blas 
