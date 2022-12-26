@@ -41,5 +41,9 @@ int main() {
 		}
 		std::cout << std::endl;
 	}
+
+	free(mat1);
+	free(mat2);
+	free(mat3);
 	return 0;
 }
