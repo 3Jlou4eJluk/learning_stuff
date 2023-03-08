@@ -1,0 +1,3 @@
+/run/media/mishanya/MyBestHDD/clion_projects/bcg_method/cmake-build-debug/CMakeFiles/bcg_method.dir
+/run/media/mishanya/MyBestHDD/clion_projects/bcg_method/cmake-build-debug/CMakeFiles/edit_cache.dir
+/run/media/mishanya/MyBestHDD/clion_projects/bcg_method/cmake-build-debug/CMakeFiles/rebuild_cache.dir

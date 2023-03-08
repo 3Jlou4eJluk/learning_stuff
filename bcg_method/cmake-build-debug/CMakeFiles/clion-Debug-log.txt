@@ -1,0 +1,5 @@
+/home/mishanya/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/mishanya/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/ninja/linux/x64/ninja -G Ninja -S /run/media/mishanya/MyBestHDD/clion_projects/bcg_method -B /run/media/mishanya/MyBestHDD/clion_projects/bcg_method/cmake-build-debug
+-- Could NOT find LAPACK (missing: LAPACK_DIR)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /run/media/mishanya/MyBestHDD/clion_projects/bcg_method/cmake-build-debug

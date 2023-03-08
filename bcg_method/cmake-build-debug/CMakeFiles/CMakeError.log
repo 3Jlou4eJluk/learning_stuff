@@ -1,0 +1,14 @@
+Determining if the function sgemm_ exists failed with the following output:
+Change Dir: /run/media/mishanya/MyBestHDD/clion_projects/bcg_method/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/mishanya/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/ninja/linux/x64/ninja cmTC_edb7b && [1/2] Building C object CMakeFiles/cmTC_edb7b.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_edb7b
+FAILED: cmTC_edb7b 
+: && /usr/bin/cc -DCHECK_FUNCTION_EXISTS=sgemm_  CMakeFiles/cmTC_edb7b.dir/CheckFunctionExists.c.o -o cmTC_edb7b   && :
+/usr/bin/ld: CMakeFiles/cmTC_edb7b.dir/CheckFunctionExists.c.o: в функции «main»:
+CheckFunctionExists.c:(.text+0x10): неопределённая ссылка на «sgemm_»
+collect2: ошибка: выполнение ld завершилось с кодом возврата 1
+ninja: build stopped: subcommand failed.
+
+
+
