@@ -66,6 +66,9 @@ double ddot(const double* vec1, const double* vec2, size_type n) {
     return res;
 }
 
+/*
+ * https://en.wikipedia.org/wiki/Biconjugate_gradient_method
+ */
 void bcg_method(double* matrix, double* b, double* x0, size_type n, size_type max_iter) {
     double* tmp_vec1 = create_vector(n);
     double* tmp_vec2 = create_vector(n);
